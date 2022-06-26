@@ -1,0 +1,3 @@
+Iniciando com HTML e CSS.
+
+Este arquivo conterá todo o conteúdo desta fase do curso.
